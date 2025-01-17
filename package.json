@@ -1,14 +1,30 @@
 {
   "name": "Vauri",
   "displayName": "Vauri",
-  "description": "# Vauri",
+  "publisher": "agams",
+  "license": "GPLv3",
+	"icon": "icon.png",
+  "description": "Best theme on VSCode, bar none.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
   },
+  "galleryBanner": {
+		"color": "#0F1419",
+		"theme": "dark"
+	},
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/dkestra/vauri.git"
+	},
+  "homepage": "https://github.com/dkestra/vauri/blob/master/README.md",
   "categories": [
     "Themes"
   ],
+  "keywords": [
+		"vauri",
+		"dark"
+	],
   "contributes": {
     "themes": [
       {
