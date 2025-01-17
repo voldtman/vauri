@@ -1,0 +1,21 @@
+{
+  "name": "Vauri",
+  "displayName": "Vauri",
+  "description": "# Vauri",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vauri",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vauri-color-theme.json"
+      }
+    ]
+  }
+}
