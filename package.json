@@ -15,9 +15,9 @@
 	},
   "repository": {
 		"type": "git",
-		"url": "https://github.com/dkestra/vauri.git"
+		"url": "https://github.com/voldtman/vauri.git"
 	},
-  "homepage": "https://github.com/dkestra/vauri/blob/master/README.md",
+  "homepage": "https://github.com/voldtman/vauri/blob/master/README.md",
   "categories": [
     "Themes"
   ],

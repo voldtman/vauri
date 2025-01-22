@@ -115,7 +115,7 @@
 
 		/** Integrated Terminal colors */
         "terminal.background": "#080A0B",
-        "terminal.foreground": "#080A0B",
+        "terminal.foreground": "#f8f8f0",
 		
 		/** Debug */
 
